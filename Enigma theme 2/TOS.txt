@@ -1,0 +1,4 @@
+1. The theme is only suitable for the official version of Pterodactyl 1.6.3 without third-party installed themes, addons and other scripts. If you have any of these installed, we do not guarantee the functionality of the theme and do not provide support.
+2. One purchase of a theme applies only to one domain.
+3. You cannot share this theme, parts of its code, or any other resources that this theme contains.
+4. You cannot use parts of the code and other resources of this theme to develop your own theme or addon.
